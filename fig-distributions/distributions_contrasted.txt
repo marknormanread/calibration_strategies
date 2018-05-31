@@ -1,0 +1,21 @@
+
+same
+
+KS D=0.04, p=0.33
+T test t=-0.41, p=0.68
+MannWhitney U U=491043.00, p=0.49
+
+
+shifted mean
+
+KS D=0.43, p=0.00
+T test t=-24.19, p=0.00
+MannWhitney U U=222385.00, p=0.00
+
+
+shifted distro
+
+KS D=0.16, p=0.00
+T test t=-0.17, p=0.87
+MannWhitney U U=498000.00, p=0.88
+
